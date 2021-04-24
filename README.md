@@ -1,1 +1,8 @@
-# DebugConsoleUGUI
+# DebugConsoleUGUI简易使用手册
+1、创建ScrollViwe与InputFiled，在ScrollViwe-Viewport-Content下创建Text类型UI Loglist
+
+2、将DebugConsoleUGUI脚本挂载，并设置好参数
+
+3、输入开启代码的内容即可打开调试窗口，在InputFiled中输入对应命令即可调用对应功能
+
+4、可打开脚本按照提示自行添加需要的命令、外部消息传递类型
